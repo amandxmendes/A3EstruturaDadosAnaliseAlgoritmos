@@ -1,3 +1,5 @@
+package src;
+
 //verifica de tras para frente e insere o valor na ordem que ele deve ficar tipo o 6 entre o 5 o 7
 public class InsertionSort {
     public static void main(String[] args) {

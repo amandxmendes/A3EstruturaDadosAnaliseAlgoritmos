@@ -1,3 +1,5 @@
+package src;
+
 //organiza em ordem fazendo saltos de 2 em 2 e validando os valores
 public class ShellSort {
     public static void main(String[] args) {
