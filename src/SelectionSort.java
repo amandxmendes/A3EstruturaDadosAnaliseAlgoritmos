@@ -1,6 +1,5 @@
 package src;
 
-//é tipo organizar pessoas em fila por ordem de altura com as menores na frente das maiores
 public class SelectionSort {
     public static void main(String[] args) {
         int[] vetor = new int[5];
